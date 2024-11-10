@@ -8,11 +8,11 @@ import {
 const faqs = [
   {
     question: 'What is StudentlyAI?',
-    answer: 'StudentlyAI is an AI-powered learning assistant that helps students improve their academic performance through personalized study plans, intelligent tutoring, and comprehensive analytics.'
+    answer: 'StudentlyAI is an AI-powered learning assistant that helps students improve their academic performance through personalised study plans, intelligent tutoring, and comprehensive analytics.'
   },
   {
-    question: 'How does the AI personalization work?',
-    answer: 'Our AI analyzes your learning style, academic goals, and performance data to create tailored study plans and recommendations that adapt to your needs.'
+    question: 'How does the AI personalisation work?',
+    answer: 'Our AI analyses your learning style, academic goals, and performance data to create tailored study plans and recommendations that adapt to your needs.'
   },
   {
     question: 'Is StudentlyAI available 24/7?',
@@ -20,7 +20,7 @@ const faqs = [
   },
   {
     question: 'What subjects does StudentlyAI cover?',
-    answer: 'StudentlyAI supports a wide range of academic subjects including mathematics, sciences, humanities, and languages, with more subjects being added regularly.'
+    answer: 'StudentlyAI supports all academic subjects including mathematics, sciences, humanities, and languages.'
   },
   {
     question: 'How much does StudentlyAI cost?',
