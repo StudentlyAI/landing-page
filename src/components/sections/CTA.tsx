@@ -10,7 +10,7 @@ export default function CTA() {
             Ready to Transform Your Learning?
           </h2>
           <p className="text-gray-600 mb-8 max-w-2xl mx-auto">
-            Join thousands of students already using StudentlyAI to achieve their academic goals.
+            Join thousands of students already signed up to the StudentlyAI waitlist to achieve their academic goals.
             Get early access and exclusive benefits by joining our waitlist today.
           </p>
           <Button asChild size="lg" className="bg-primary hover:bg-primary/90">
