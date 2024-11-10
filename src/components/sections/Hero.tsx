@@ -12,7 +12,7 @@ export default function Hero() {
                 Transform Your Academic Journey
               </h1>
               <p className="text-xl text-gray-600">
-                Your personalized AI study assistant that adapts to your learning style
+                Your personalised AI study assistant that adapts to your learning style
                 and helps you achieve academic excellence.
               </p>
             </div>
