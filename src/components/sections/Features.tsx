@@ -8,8 +8,8 @@ import { Card, CardHeader, CardTitle, CardDescription } from '@/components/ui/ca
 
 const features = [
   {
-    title: 'Personalized Learning',
-    description: 'AI-driven study plans tailored to your unique learning style and goals.',
+    title: 'Personalised Learning',
+    description: 'AI-driven study tailored to your unique learning style and tone of writing.',
     icon: Brain
   },
   {
