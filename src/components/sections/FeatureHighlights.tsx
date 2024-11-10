@@ -5,8 +5,8 @@ import { Bot, BookOpen, LineChart } from 'lucide-react';
 const highlights = [
   {
     icon: Bot,
-    title: '24/7 AI Tutor',
-    description: 'Get instant help with any subject, anytime. Our AI tutor never sleeps.',
+    title: '24/7 AI Tutors',
+    description: 'Get instant help with any subject, anytime. Our AI never sleeps.',
   },
   {
     icon: BookOpen,
