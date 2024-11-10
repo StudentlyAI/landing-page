@@ -3,11 +3,11 @@ import { Check } from 'lucide-react';
 
 const benefits = [
   'Early access to all premium features',
-  'Lifetime discount on subscription',
+  'Discount on subscription',
   'Priority support and feature requests',
   'Exclusive learning resources',
-  'Free consultation with our education experts',
-  'Special community events access',
+  'Earn money for referring friends',
+  'Special student community rewards',
 ];
 
 export default function WaitlistBenefits() {
@@ -25,7 +25,7 @@ export default function WaitlistBenefits() {
             Join Our Waitlist Today
           </h2>
           <p className="text-lg text-[#333333]/80 max-w-2xl mx-auto">
-            Be among the first to experience the future of learning
+            Be among the first to experience the future of studying!
           </p>
         </motion.div>
 
