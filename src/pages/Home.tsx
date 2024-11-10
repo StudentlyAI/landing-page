@@ -9,13 +9,13 @@ export default function Home() {
   return (
     <>
       <Helmet>
-        <title>StudentlyAI - Transform Your Academic Journey</title>
-        <meta name="description" content="StudentlyAI is your personalized AI study assistant, helping you achieve academic excellence through intelligent learning tools and comprehensive analytics." />
-        <meta name="keywords" content="AI study assistant, personalized learning, academic tools, student help, education technology" />
-        <meta property="og:title" content="StudentlyAI - Transform Your Academic Journey" />
-        <meta property="og:description" content="Your personalized AI study assistant for academic excellence." />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://studentlyai.com" />
+       <title>StudentlyAI - Transform Your Academic Journey</title>
+<meta name="description" content="StudentlyAI is your personalised AI study assistant, helping you achieve academic excellence through intelligent learning tools and comprehensive analytics." />
+<meta name="keywords" content="AI study assistant, personalised learning, academic tools, student help, education technology" />
+<meta property="og:title" content="StudentlyAI - Transform Your Academic Journey" />
+<meta property="og:description" content="Your personalised AI study assistant for academic excellence." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://studently.uk" />
       </Helmet>
 
       <div className="flex flex-col w-full">
