@@ -13,7 +13,7 @@ const steps = [
   },
   {
     title: 'AI Analysis',
-    description: 'Our AI analyzes your learning style and creates a personalized plan.',
+    description: 'Our AI analyzes your learning style and creates a personalised plan.',
     icon: Sparkles
   },
   {
