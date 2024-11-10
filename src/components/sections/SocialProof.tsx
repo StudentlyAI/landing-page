@@ -14,12 +14,12 @@ const stats = [
   },
   {
     icon: Award,
-    value: '95%',
+    value: '99.9%',
     label: 'Success Rate',
   },
   {
     icon: BookOpen,
-    value: '50+',
+    value: '1000+',
     label: 'Subjects Covered',
   },
 ];
@@ -39,7 +39,7 @@ export default function SocialProof() {
             Trusted by Students Worldwide
           </h2>
           <p className="text-lg text-[#333333]/80 max-w-2xl mx-auto">
-            Join thousands of students who are already transforming their academic journey with StudentlyAI.
+            The future of personalised learning is coming - Join the waitlist.
           </p>
         </motion.div>
 
